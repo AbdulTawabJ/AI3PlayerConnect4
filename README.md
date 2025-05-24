@@ -5,8 +5,13 @@ The Repository contains 1 .py file (source code).
 6 .mp3 files (sound effects).
 
 Authors
+
 Abdul Tawab (Me)
+
 Muzaffar Ali
+
 https://github.com/muzaffar16
+
 Sahir Hassan
+
 https://github.com/Sahirhassan093
