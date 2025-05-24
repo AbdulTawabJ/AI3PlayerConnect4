@@ -4,14 +4,10 @@ The Project Uses AI Minimax and Alpha Beta Pruning for Computation. Menu based d
 The Repository contains 1 .py file (source code).
 6 .mp3 files (sound effects).
 
-Authors
+# Authors
 
-Abdul Tawab (Me)
-
-Muzaffar Ali
-
-https://github.com/muzaffar16
-
-Sahir Hassan
-
-https://github.com/Sahirhassan093
+1. Abdul Tawab (Me)
+2. Muzaffar Ali
+   https://github.com/muzaffar16
+3. Sahir Hassan
+   https://github.com/Sahirhassan093
